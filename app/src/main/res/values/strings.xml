@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Appvita</string>
+    <string name="profil_nama">Lidia Fita Sari</string>
+    <string name="jumlah_post">808</string>
+    <string name="profil_post">Post</string>
+    <string name="jumlah_followers">321.k</string>
+    <string name="profil_followers">followers</string>
+    <string name="jumlah_following">18</string>
+    <string name="profil_following">following</string>
+    <string name="profil_blog">Blog Pribadi</string>
+    <string name="profil_prodi">Teknik Informatika</string>
+    <string name="profil_ikuti">Ikuti</string>
+    <string name="profil_pesan">kirim Pesan</string>
+</resources>
